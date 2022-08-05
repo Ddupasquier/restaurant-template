@@ -1,8 +1,8 @@
 import React from 'react';
 
 const mainStyle = {
-      backgroundColor: '#CCC',
-      color: '#fff',
+      backgroundColor: '#fff',
+      color: '#000',
       textAlign: 'center',
       padding: '10px',
     };

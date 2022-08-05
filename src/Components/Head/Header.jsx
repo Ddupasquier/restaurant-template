@@ -18,7 +18,7 @@ function Header() {
         style={{
           position: 'absolute',
           background:
-            'radial-gradient(circle at bottom right, rgba(0,0,0,0) 0%, rgba(0,0,0,0) 20%, rgba(255,255,255,1) 90%)',
+            'radial-gradient(circle at bottom right, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 20%, rgba(240, 240, 240, 1) 90%)',
           height: '100%',
           width: '100%',
         }}
